@@ -2,7 +2,7 @@
 $name= $_POST['name'];
 $visitor_email= $_POST['email'];
 $subject= $_POST['subject'];
-$message= $_POST['mssage'];
+$message= $_POST['massage'];
 
 $email_from = 'info@yourwebsite.com';
 
